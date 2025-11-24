@@ -154,9 +154,9 @@ Eles podem ser selecionados diretamente na interface.
 Projeto desenvolvido por:
 
 * **Carlos Reis**
-* **Leonardo**
-* **Mateus**
-* **Professora: Thayná**
+* **Leonardo Aguirre**
+* **Mateus Ferrarini**
+* **Professora: Aline**
 
 Curso: **Fundamentos de Inteligência Artificial – G2**
 
