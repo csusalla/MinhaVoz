@@ -1,9 +1,3 @@
-Claro, Thayná! Aqui está **um README.md totalmente revisado, completo, profissional**, com todas as **citações bibliográficas** que criamos até agora, integradas no texto de forma natural e coerente, e **melhorado em estrutura, clareza e apresentação**.
-
-Você pode **copiar e colar diretamente** como README.md no GitHub.
-
----
-
 # 🌟 **Minha Voz – Sistema de Voice Cloning com IA**
 
 Aplicação desenvolvida para o **G2 da disciplina Fundamentos de Inteligência Artificial**, com o objetivo de permitir que o usuário grave um áudio curto, tenha sua voz analisada por IA e gere falas sintéticas realistas utilizando técnicas modernas de *voice cloning*.
@@ -208,10 +202,3 @@ SUNO AI. *Bark: Text-to-Audio Model*. Disponível em: [https://github.com/suno-a
 TORTOISE TTS. *Text-to-Speech Deep Learning System*. Disponível em: [https://github.com/neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts).
 
 ---
-
-# ✔ Deseja que eu gere também:
-
-✅ versão em PDF do README?
-✅ versão em inglês?
-✅ badge shields.io personalizada?
-É só pedir!
