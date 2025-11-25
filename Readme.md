@@ -183,13 +183,9 @@ O código inclui parâmetros ajustáveis:
 
 ### **Autores do Projeto**
 
-* **Carlos**
-* **Leonardo**
-* **Mateus**
-
-### **Assistência Técnica e Estrutural**
-
-Desenvolvido com apoio do ChatGPT para organização, otimização e estruturação de código e documentação.
+* **Carlos Reis**
+* **Leonardo Aguirre**
+* **Mateus Ferrarini**
 
 ---
 
